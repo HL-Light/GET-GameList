@@ -1,0 +1,4 @@
+# yaml文件的steam_id请直接复制Steam个人资料的链接，如：https://steamcommunity.com/profiles/1234567890/
+# 小黑盒复制id有bug 可能复制的值是steam好友码
+steam_id: ""
+steam_api_key: ""
